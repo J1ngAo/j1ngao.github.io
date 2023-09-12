@@ -1,7 +1,7 @@
 # My Portfolio: A Journey of Learning and Implementation
+<img width="978" alt="Screenshot 2023-09-12 at 13 45 37" src="https://github.com/J1ngAo/j1ngao.github.io/assets/99788249/2c17b7fa-0780-45bb-a6fe-71904df3d7a7">
 
 ## Introduction
-
 This portfolio serves as a showcase for my skills and is built upon a template provided by Payton Pierce(https://www.paytonpierce.dev/). While the project did start as a template, the customization and deployment process offered me a wealth of learning opportunities.
 
 **Live site**: https://j1ngao.github.io/
