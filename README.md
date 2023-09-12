@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This portfolio serves as a showcase for my skills and is built upon a template provided by [xx](https://github.com/xx). While the project did start as a template, the customization and deployment process offered me a wealth of learning opportunities.
+This portfolio serves as a showcase for my skills and is built upon a template provided by Payton Pierce(https://www.paytonpierce.dev/). While the project did start as a template, the customization and deployment process offered me a wealth of learning opportunities.
+Live site: https://j1ngao.github.io/
 
 ## Challenges Faced
 
@@ -50,4 +51,4 @@ I am currently working on the following features and projects:
 
 1. **Java + Spring Framework Project**: A collection of classic games such as Pac-Man and Mario.
 2. **Resume Integration**: I am in the process of adding my resume to the website.
-3. **Interactive "About" Section**: Inspired by [xx](https://github.com/xx), I am developing an interactive terminal that uses CLI commands to navigate and retrieve information, making the website more engaging.
+3. **Interactive "About" Section**: Inspired by Shelley Vohr(https://github.com/codebytere), I am developing an interactive terminal that uses CLI commands to navigate and retrieve information, making the website more engaging.
