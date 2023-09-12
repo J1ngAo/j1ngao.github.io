@@ -3,7 +3,8 @@
 ## Introduction
 
 This portfolio serves as a showcase for my skills and is built upon a template provided by Payton Pierce(https://www.paytonpierce.dev/). While the project did start as a template, the customization and deployment process offered me a wealth of learning opportunities.
-Live site: https://j1ngao.github.io/
+
+**Live site**: https://j1ngao.github.io/
 
 ## Challenges Faced
 
